@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.IO;
 
 namespace DowncastingAndUpcasting
 {
@@ -6,7 +9,8 @@ namespace DowncastingAndUpcasting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-        }
+            Shape shape = new Text();
+            Text text = (Text) shape;
+        }   
     }
 }

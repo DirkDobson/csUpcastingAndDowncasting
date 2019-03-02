@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/DowncastingAndUpcasting/bin/Debug/netcoreapp2.1/DowncastingAndUpcasting.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/DowncastingAndUpcasting/bin/Debug/netcoreapp2.1/DowncastingAndUpcasting.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/DowncastingAndUpcasting/bin/Debug/netcoreapp2.1/DowncastingAndUpcasting.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/DowncastingAndUpcasting/bin/Debug/netcoreapp2.1/DowncastingAndUpcasting.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/DowncastingAndUpcasting/bin/Debug/netcoreapp2.1/DowncastingAndUpcasting.pdb
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/DowncastingAndUpcasting/obj/Debug/netcoreapp2.1/DowncastingAndUpcasting.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/DowncastingAndUpcasting/obj/Debug/netcoreapp2.1/DowncastingAndUpcasting.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/DowncastingAndUpcasting/obj/Debug/netcoreapp2.1/DowncastingAndUpcasting.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/DowncastingAndUpcasting/obj/Debug/netcoreapp2.1/DowncastingAndUpcasting.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/DowncastingAndUpcasting/obj/Debug/netcoreapp2.1/DowncastingAndUpcasting.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/DowncastingAndUpcasting/obj/Debug/netcoreapp2.1/DowncastingAndUpcasting.pdb
